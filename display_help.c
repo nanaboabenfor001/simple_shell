@@ -181,5 +181,5 @@ ssize_t read_helphelp(char **m)
 	close(fd);
 	free(helpdir);
 	free(buf);
-	return (r)
+	return (r);
 }
