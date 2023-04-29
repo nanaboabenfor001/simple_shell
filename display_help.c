@@ -1,4 +1,4 @@
-#include "shell.h
+#include "shell.h"
 
 /**
  * read_help - reads all builtins text file and prints it to POSIX stdout
