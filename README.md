@@ -7,5 +7,5 @@ The "Simple_shell" is a program that can be compiled and launched from the comma
 
 
 ## Authors 
- Nana Boa Benfor and Rachel uneke.
+ Nana Boa Benfor and Rachel uneke
 
