@@ -4,7 +4,7 @@
  * _signal - handle SIGINT signal
  * @s: signal to catch
  */
-void _
+void _s
 {
 	(void)s;
 	write(STDOUT_FILENO, "\n#cisfun$ ", 10);
