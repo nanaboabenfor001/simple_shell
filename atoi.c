@@ -35,6 +35,6 @@ int _atoi(char *s)
 		a++;
 		tam--;
 	}
-	num = num * aux2;
+	num = num * aux2
 	return (num);
 }
